@@ -7,7 +7,7 @@ python -m venv venv
 venv\Scripts\activate
 
 #    Activar (Linux/Mac)
-# source venv/bin/activate
+source venv/bin/activate
 
 # 3. Instalar librerías
 pip install sympy numpy
@@ -68,6 +68,3 @@ Se utiliza principalmente en contextos de **física, ingeniería y laboratorio**
 
 ---
 
-## 🧮 Ejemplo de uso
-
-**Entrada:**
